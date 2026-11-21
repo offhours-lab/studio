@@ -1,7 +1,7 @@
 {
  "lufs": -14,
  "music": {
-  "file": "music/lib/tech/furious-freak.mp3",
+  "file": "music/lib/tech/thief-in-the-night.mp3",
   "offset": 6.0,
   "gain_db": -22,
   "fade_out": 1.5
@@ -38,13 +38,6 @@
    "align": "onset"
   },
   {
-   "t": 15.26,
-   "file": "sfx/type-soft.mp3",
-   "gain_db": -24,
-   "align": "onset",
-   "dur": 2.1
-  },
-  {
    "t": 14.81,
    "file": "sfx/air-zoom.mp3",
    "gain_db": -24,
@@ -72,24 +65,6 @@
    "t": 18.97,
    "file": "sfx/impact.mp3",
    "gain_db": -24,
-   "align": "onset"
-  },
-  {
-   "t": 24.12,
-   "file": "sfx/click-ui.mp3",
-   "gain_db": -22,
-   "align": "onset"
-  },
-  {
-   "t": 24.843,
-   "file": "sfx/click-ui.mp3",
-   "gain_db": -22,
-   "align": "onset"
-  },
-  {
-   "t": 25.565,
-   "file": "sfx/click-ui.mp3",
-   "gain_db": -22,
    "align": "onset"
   },
   {

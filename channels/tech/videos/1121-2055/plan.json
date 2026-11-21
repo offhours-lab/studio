@@ -1,0 +1,335 @@
+{
+ "slug": "bluetooth-handshake-tech",
+ "title": "Bluetooth headphones bina wire ke connect kaise hote hain?",
+ "hooks": [
+  "Bluetooth headphones bina wire ke connect kaise ho jaate hain?",
+  "Ye invisible handshake kaise hota hai?",
+  "Bluetooth connection ka asli sach jaaniye."
+ ],
+ "hook_choice": 0,
+ "hook_why": "Directly addresses the curiosity question with the core subject 'Bluetooth' at frame 0 as per channel rules.",
+ "metaphor": "An invisible digital handshake between two devices exchanging a secret key.",
+ "mechanism": [
+  "Pairing mode: Headphones broadcast a 'discoverable' signal to nearby devices.",
+  "Handshake: Phone detects the signal and exchanges security keys with the headphones.",
+  "Bonding: Both devices store the unique ID to recognize each other automatically next time.",
+  "Profiles: A2DP handles high-quality music while HFP manages low-bitrate voice calls.",
+  "Radio Waves: Data travels over 2.4 GHz frequency, similar to Wi-Fi but at shorter range."
+ ],
+ "cast": {},
+ "scenes": [
+  {
+   "vo": "Bluetooth headphones... bina kisi wire ke aapke phone se connect kaise ho jaate hain?",
+   "type": "clip",
+   "prompt": "Cinematic close-up of premium black over-ear headphones on a dark studio background, a blue neon pulse 'strikes' into life from the earcup frame 0.",
+   "label": "WIRELESS TECH",
+   "keywords": [
+    "Bluetooth",
+    "connect"
+   ],
+   "motion": "push",
+   "title": "",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "skin": "keynote"
+  },
+  {
+   "vo": "Ye koi jaadu nahi, balki ek invisible handshake hai jo seconds mein poora hota hai.",
+   "type": "object",
+   "prompt": "Two 3D translucent spheres representing a phone and headphones, glowing lines connecting them like a handshake on pure black.",
+   "label": "DIGITAL HANDSHAKE",
+   "bg_prompt": "A high-end smartphone and wireless earbuds lying on a reflective black surface.",
+   "keywords": [
+    "invisible",
+    "handshake"
+   ],
+   "motion": "push",
+   "title": "",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "skin": "blueprint"
+  },
+  {
+   "vo": "Sabse pehle aata hai Pairing Mode. Isme headphones charo taraf signal bhejte hain... Main yahan hoon!",
+   "type": "flow",
+   "nodes": [
+    "BROADCAST",
+    "DISCOVER",
+    "HANDSHAKE",
+    "BONDED"
+   ],
+   "label": "STEP 1: PAIRING",
+   "bg_prompt": "A 3D render of radio waves radiating from a small internal Bluetooth chip inside a headphone.",
+   "keywords": [
+    "Pairing",
+    "Signal"
+   ],
+   "motion": "push",
+   "title": "",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "real": {
+    "q": "finger pressing pairing button on over-ear headphones blinking light",
+    "kind": "photo",
+    "subject": "Close-up of a thumb pressing the physical pairing button on a headphone."
+   },
+   "skin": "blueprint"
+  },
+  {
+   "vo": "Aapka phone is signal ko pakadta hai aur dono devices ek unique Security Key exchange karte hain.",
+   "type": "ui",
+   "title": "BT PAIRING",
+   "rows": [
+    {
+     "label": "Search",
+     "value": "Found"
+    },
+    {
+     "label": "Sec Key",
+     "value": "Verified"
+    }
+   ],
+   "label": "KEY EXCHANGE",
+   "bg_prompt": "Soft, out-of-focus ambient background for a technology explainer about: key exchange, bt pairing, security key, bluetooth headphones bina wire ke connect kaise hote hain?. Style: image made only of glowing amber monospace ASCII characters on dark CRT glass, scanlines, slight screen curvature, monochrome amber phosphor, no photo. Abstract light, depth and colour only: no screens, no monitors, no phones showing anything, no terminals, no windows, no text, no letters, no numbers, no logos, no watermark, vertical 9:16.",
+   "real": {
+    "q": "iphone bluetooth pairing pop-up notification animation",
+    "kind": "photo",
+    "subject": "A real iOS pairing pop-up appearing on a phone screen held in a hand."
+   },
+   "keywords": [
+    "Security",
+    "Key"
+   ],
+   "motion": "push",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "skin": "terminal",
+   "prompt": ""
+  },
+  {
+   "vo": "Is process ko kehte hain Bonding. Ab dono devices ek doosre ko hamesha ke liye pehchan lenge.",
+   "type": "object",
+   "prompt": "A 3D golden lock icon snapping shut between a phone and a headphone asset.",
+   "label": "DEVICE BONDING",
+   "bg_prompt": "Macro shot of a Bluetooth logo glowing on a metallic surface.",
+   "real": {
+    "q": "android bluetooth settings showing connected device list",
+    "kind": "photo",
+    "subject": "A real Android Bluetooth settings menu showing a device as 'Connected'."
+   },
+   "keywords": [
+    "Bonding",
+    "Pehchan"
+   ],
+   "motion": "push",
+   "title": "",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "skin": "blueprint"
+  },
+  {
+   "vo": "Lekin music aur calls ke liye alag raaste hote hain. Music ke liye A2DP aur calls ke liye HFP profile.",
+   "type": "compare",
+   "items": [
+    {
+     "label": "A2DP (MUSIC)",
+     "value": "HIGH QUALITY",
+     "pct": 95
+    },
+    {
+     "label": "HFP (CALLS)",
+     "value": "VOICE ONLY",
+     "pct": 40
+    }
+   ],
+   "label": "AUDIO PROFILES",
+   "bg_prompt": "Internal 3D view of a headphone driver vibrating with sound waves.",
+   "keywords": [
+    "Music",
+    "Calls"
+   ],
+   "motion": "push",
+   "title": "",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "skin": "blueprint",
+   "prompt": ""
+  },
+  {
+   "vo": "Ye sab 2.4 Gigahertz ki radio waves par chalta hai... bilkul aapke Wi-Fi ki tarah.",
+   "type": "stat",
+   "value": "2.4 GHz",
+   "sub": "OPERATING FREQUENCY",
+   "label": "RADIO WAVES",
+   "bg_prompt": "A 3D visualization of a crowded radio frequency spectrum with waves overlapping.",
+   "keywords": [
+    "Radio",
+    "Waves"
+   ],
+   "motion": "push",
+   "title": "",
+   "big": null,
+   "small": null,
+   "real": {
+    "q": "modern white wifi router with four antennas",
+    "kind": "photo",
+    "subject": "A physical Wi-Fi router to visually represent the 2.4GHz frequency."
+   },
+   "skin": "blueprint"
+  },
+  {
+   "vo": "Isi wajah se microwave ya Wi-Fi ke paas kabhi kabhi aapka signal drop hone lagta hai.",
+   "type": "object",
+   "prompt": "A 3D microwave oven next to a pair of headphones with glitchy static lines between them.",
+   "label": "INTERFERENCE",
+   "bg_prompt": "A modern kitchen setting with a microwave and a person wearing headphones in the background.",
+   "keywords": [
+    "Signal",
+    "Drop"
+   ],
+   "motion": "push",
+   "title": "",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "real": {
+    "q": "modern kitchen microwave oven close up",
+    "kind": "photo",
+    "subject": "A standard kitchen microwave to illustrate potential interference sources."
+   },
+   "skin": "blueprint"
+  },
+  {
+   "vo": "Agli baar jab bina wire ke gaane sunein, toh is digital dosti ko yaad rakhiyega.",
+   "type": "title",
+   "big": "INVISIBLE WIRE",
+   "sub": "TECH EXPLAINED",
+   "bg_prompt": "A pair of Sony WH-1000XM5 headphones spinning slowly in a premium studio setup.",
+   "real": {
+    "q": "Sony WH-1000XM5 black",
+    "kind": "photo",
+    "subject": "Sony premium headphones"
+   },
+   "keywords": [
+    "Digital",
+    "Dosti"
+   ],
+   "motion": "push",
+   "title": "",
+   "small": null,
+   "label": null,
+   "skin": "keynote"
+  },
+  {
+   "vo": "Aapka favourite headphone brand kaunsa hai? Comment mein batao!",
+   "type": "object",
+   "prompt": "A collection of various real brand logos like Sony, Boat, and Apple floating on a black background.",
+   "label": "COMMENT BELOW",
+   "bg_prompt": "A dark studio desk with multiple types of wireless earbuds and headphones.",
+   "real": {
+    "q": "Sony Bose Apple JBL logos grid",
+    "kind": "logo",
+    "subject": "Small icons of popular headphone brands on a high-contrast background."
+   },
+   "keywords": [
+    "Favourite",
+    "Brand"
+   ],
+   "motion": "push",
+   "title": "FAV BRAND?",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "skin": "keynote",
+   "items": [
+    {
+     "label": "Sony",
+     "value": ""
+    },
+    {
+     "label": "Boat",
+     "value": ""
+    },
+    {
+     "label": "Apple",
+     "value": ""
+    },
+    {
+     "label": "JBL",
+     "value": ""
+    }
+   ]
+  }
+ ],
+ "music_mood": "driving",
+ "caption": "Bluetooth connect kaise hota hai? 🎧\n\nYe sirf ek button dabana nahi hai, balki ek complex digital handshake hai. Jaaniye pairing aur bonding ka asli matlab.\n\nAapka favourite headphone brand kaunsa hai?\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
+ "hashtags": [
+  "#Bluetooth",
+  "#TechExplained",
+  "#KaiseTech",
+  "#WirelessAudio",
+  "#Gadgets"
+ ],
+ "claims": [
+  {
+   "claim": "Bluetooth uses a pairing and bonding process to connect devices.",
+   "basis": "Source tutorialpedia.org: 'Pairing is the one-time handshake... Bonding is what happens every time afterwards.'"
+  },
+  {
+   "claim": "Bluetooth audio uses A2DP for music and HFP for calls.",
+   "basis": "Source tutorialpedia.org: 'Classic Bluetooth audio uses A2DP for high-quality music playback and the Hands-Free Profile (HFP) for calls.'"
+  },
+  {
+   "claim": "Bluetooth operates on the 2.4 GHz frequency.",
+   "basis": "Source tutorialpedia.org: 'Bluetooth is a room-scale technology... 2.4 GHz interference from Wi-Fi gear... shorten range.'"
+  }
+ ],
+ "explainer": {
+  "score": 7,
+  "ok": false,
+  "steps_learned": [
+   "Headphones enter pairing mode and broadcast a discoverable signal",
+   "Phone detects the signal and both devices exchange a unique security key",
+   "This one-time handshake is called bonding, after which devices recognize each other permanently",
+   "Music uses A2DP profile, calls use HFP profile (different paths)",
+   "Communication happens over 2.4 GHz radio waves, same band as Wi-Fi",
+   "Microwave or Wi-Fi nearby can cause signal drops due to interference"
+  ],
+  "missing_steps": [
+   "Pairing is a one-time event; connecting happens automatically every time after when devices are in range and powered on",
+   "Pairing mode is triggered by a button combination on the headphones, not from the phone",
+   "When microphone is used (calls/meetings), the link often switches to HFP which sounds noticeably worse than A2DP",
+   "Newer LE Audio standard uses LC3 codec over Bluetooth Low Energy and can maintain higher quality with mic active"
+  ],
+  "unsourced": [
+   "\"seconds mein poora hota hai\" — no source specifies pairing duration",
+   "\"hamesha ke liye pehchan lenge\" — bonding persists but can be removed/unpaired",
+   "Microwave interference claim not explicitly in provided sources"
+  ]
+ },
+ "brain_ids": [
+  "fc294ac58f",
+  "4396759d41",
+  "1e1964f463",
+  "f945e2a937",
+  "b2fabb69c4",
+  "9db4cc694f",
+  "7fa182f8ef",
+  "161339712e",
+  "6ce7203c71",
+  "b69d65467f",
+  "7f620e6fdf",
+  "6055c69660",
+  "e15cfaed29",
+  "1e60a34718"
+ ],
+ "visual_done": "2026-11-21 21:06",
+ "skin": "blueprint",
+ "music_credit": "Music: Kevin MacLeod (incompetech.com), CC BY 4.0"
+}

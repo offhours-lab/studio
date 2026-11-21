@@ -398,5 +398,46 @@
  ],
  "visual_done": "2026-11-19 14:01",
  "skin": "keynote",
- "music_credit": "Music: Kevin MacLeod (incompetech.com), CC BY 4.0"
+ "music_credit": "Music: Kevin MacLeod (incompetech.com), CC BY 4.0",
+ "seo": {
+  "ig": {
+   "caption": "Raat 2 baje WhatsApp pe order, 2 second mein confirm — ye kaise hua? 🤯\nVideo mein seekho: Webhook ek digital doorbell hai jo server ko turant jagaata hai.\nUs dost ko bhejiye jo raat bhar WhatsApp par business chalaata hai\nAapka pehla AI agent kaunsa kaam karega?",
+   "hashtags": [
+    "#AI",
+    "#WhatsApp",
+    "#TechExplained",
+    "#AIAgent",
+    "#Razorpay"
+   ]
+  },
+  "fb": {
+   "caption": "Raat 2 baje WhatsApp pe order, 2 second mein confirm — ye kaise hua? 🤯\nVideo mein seekho: Webhook ek digital doorbell hai jo server ko turant jagaata hai.\nUs dost ko bhejiye jo raat bhar WhatsApp par business chalaata hai\nAapka pehla AI agent kaunsa kaam karega?",
+   "hashtags": [
+    "#AI",
+    "#WhatsApp"
+   ]
+  },
+  "yt": {
+   "title": "WhatsApp AI Agent Kaise Kaam Karta Hai? Webhook Se Payment Tak 🤯",
+   "description": "Raat 2 baje order, 2 second mein confirm — pura flow samjho.\nWebhook, AI manager, backend, UPI integration sab ek saath.\nRazorpay Agent Studio mahine ke 5 lakh runs sambhalta hai.\nWhatsApp AI Agent Webhook Payment Gateway API Integration Razorpay",
+   "tags": [
+    "WhatsApp AI Agent",
+    "Webhook explained",
+    "AI agent working",
+    "Payment gateway integration",
+    "Razorpay Agent Studio",
+    "Meta cloud server",
+    "UPI in chat",
+    "AI manager tools",
+    "Backend stock verify",
+    "API callback receipt"
+   ],
+   "hashtags": [
+    "#AI",
+    "#WhatsApp",
+    "#TechExplained"
+   ]
+  },
+  "comment_q": "Kaunsa kaam AI agent ko denge?"
+ }
 }

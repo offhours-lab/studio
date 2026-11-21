@@ -5,17 +5,15 @@
   "ok": true,
   "video": "h264,1080,1920,30/1",
   "audio": "aac",
-  "lufs": -13.7,
-  "true_peak": -3.4,
+  "lufs": -13.8,
+  "true_peak": -3.3,
   "dur": 47.53
  },
  "vision": {
-  "score": 9,
-  "ok": true,
-  "problems": [
-   "scene 1: The caption 'AMEER DEVTA' is partially obscured by the character's dhoti/clothing, making it slightly hard to read.",
-   "scene 8: The caption 'BHAAG KAR MAHADEV' is slightly cut off at the bottom, though still legible."
-  ]
+  "ok": null,
+  "score": null,
+  "problems": [],
+  "note": "judged by review.py"
  },
  "voice": {
   "ok": true,

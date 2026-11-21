@@ -567,3 +567,20 @@
 
 ## 1121-2055 (pre-render check)
 - READ: gibberish corrupted text on screen
+
+## 1121-2055 (pre-render check)
+- READ: overlapping and garbled text rendering in the lower caption area making it unreadable
+- FIT: logo grid contains extraneous text 'SONOS' or redundant elements not matching standard brand layout
+
+## 1121-2055 (pre-render check)
+- FIT: UI contains garbled AI-generated nonsense text
+- READ: text in the pairing box is unreadable
+- FIT: brand logos are distorted, incorrect, and contain gibberish text
+
+## review 1121-2055
+- visual: Garbled, fake, and gibberish letters visible inside generated text UI elements in Scene 4 ('Bt seuring key bluctooohrrndra...').
+- visual: Scene 4 UI card contains complete gibberish text instead of proper technical terms.
+- visual: Checklist item 2: Scene 4 UI panel contains placeholder/garbled text blocks instead of readable security key exchange details.
+- visual: checklist: Is any frame a near-empty box, card or placeholder block where the line explains something? -> Scene 4
+- picture check: scene 10: Does a frame show a wrong or fake logo for the brand it names? (yes 76%)
+- visual score 4/10

@@ -1,0 +1,26 @@
+{
+ "topic": "Bluetooth headphones wire bina kaise connect hote hain?",
+ "title": "Bluetooth headphones bina wire ke connect kaise hote hain?",
+ "format": {
+  "ok": true,
+  "video": "h264,1080,1920,30/1",
+  "audio": "aac",
+  "lufs": -13.5,
+  "true_peak": -3.2,
+  "dur": 45.97
+ },
+ "vision": {
+  "ok": null,
+  "score": null,
+  "problems": [],
+  "note": "judged by review.py"
+ },
+ "voice": {
+  "ok": true,
+  "method": "whisper",
+  "matched": 0.9436619718309859,
+  "words": 154,
+  "problems": []
+ },
+ "ok": true
+}

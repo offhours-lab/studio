@@ -90,24 +90,20 @@
   },
   {
    "vo": "Aapki voice seedha cloud mein 'Muse Secure VM' tak jaati hai.",
-   "type": "code",
-   "title": "CLOUD LINK",
-   "lines": [
-    "CONNECTING",
-    "ENCRYPTING",
-    "VM READY"
-   ],
+   "type": "title",
+   "title": "Secure VM",
+   "lines": [],
    "highlight": 3,
-   "label": "SECURE VM",
-   "bg_prompt": "Soft, out-of-focus ambient background for a technology explainer about: secure vm, cloud link, voice secure vm, meta’s muse charm ai device kaise kaam karta hai?. Style: image made only of glowing amber monospace ASCII characters on dark CRT glass, scanlines, slight screen curvature, monochrome amber phosphor, no photo. Abstract light, depth and colour only: no screens, no monitors, no phones showing anything, no terminals, no windows, no text, no letters, no numbers, no logos, no watermark, vertical 9:16.",
+   "label": "Secure VM",
+   "bg_prompt": "Soft, out-of-focus ambient background for a technology explainer about: secure vm, cloud link, voice secure vm, meta's muse charm ai device kaise kaam karta hai?. Style: abstract glowing amber light on dark glass, scanlines, slight curvature, monochrome amber phosphor, no text, no letters, no numbers, no logos, vertical 9:16.",
    "keywords": [
     "voice",
     "Secure VM"
    ],
    "motion": "push",
-   "big": null,
+   "big": "Secure VM",
    "small": null,
-   "sub": null,
+   "sub": "Cloud Link",
    "skin": "terminal",
    "prompt": ""
   },
@@ -149,31 +145,21 @@
   },
   {
    "vo": "Sirf jawab nahi deta... ye khud websites par jaakar forms bharta hai aur bookings karta hai.",
-   "type": "flow",
+   "type": "title",
    "prompt": "A cinematic shot of a digital cursor moving rapidly across a web form, filling in text boxes automatically, high-tech overlay.",
-   "label": "ACTION FLOW",
+   "label": "Auto Booking",
    "keywords": [
     "forms",
     "bookings"
    ],
    "motion": "push",
-   "title": "AUTO BOOKING",
-   "big": null,
+   "title": "Auto Booking",
+   "big": "Auto Booking",
    "small": null,
-   "sub": null,
+   "sub": "Forms",
    "skin": "hologram",
-   "nodes": [
-    {
-     "label": "OPEN SITE"
-    },
-    {
-     "label": "FILL FORM"
-    },
-    {
-     "label": "BOOKED"
-    }
-   ],
-   "bg_prompt": "Vertical scene for a technology explainer about: auto-execution, forms bookings, Meta's Muse Charm AI device kaise kaam karta hai?. Style: glowing cyan wireframe hologram made of thin light lines floating above a round projector pad, near-black stage, faint dot grid, depth fog, no solid surfaces, no photo. One clear subject in the middle third, empty dark space at the top and bottom, no people's faces, no text, no letters, no logos, no watermark, vertical 9:16."
+   "nodes": [],
+   "bg_prompt": "Vertical scene for a technology explainer about: auto-execution, forms bookings, Meta's Muse Charm AI device kaise kaam karta hai?. Style: glowing cyan wireframe hologram made of thin light lines floating above a round projector pad, near-black stage, faint dot grid, depth fog, no solid surfaces, no photo, no text, no letters, no logos, no watermark, vertical 9:16."
   },
   {
    "vo": "Jaise movie tickets dhoondhna ya dentist appointment manage karna... sab automatic.",
@@ -248,7 +234,7 @@
    "small": null,
    "sub": null,
    "real": {
-    "q": "Meta official logo blue background",
+    "q": "Meta official logo on blue background",
     "kind": "logo",
     "subject": "The official Meta logo"
    },

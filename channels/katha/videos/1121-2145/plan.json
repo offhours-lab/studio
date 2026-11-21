@@ -1,0 +1,354 @@
+{
+ "slug": "omkareshwar-jyotirlinga-katha",
+ "title": "Omkareshwar: Narmada ke beech 'Om' kaise bana?",
+ "hooks": [
+  "Narmada ke beech ek dweep...",
+  "Kaisa bana ye pavitra 'Om' akaar?",
+  "Raja Mandhata ne kaise Shiv ko roka?"
+ ],
+ "hook_choice": 0,
+ "hook_why": "It uses the mystery-tease type with an incomplete thought and the keyword 'Narmada' at frame 0, compelling the viewer to discover the origin of the Om-shaped island.",
+ "metaphor": "The 'Om' shaped island in the Narmada river representing the divine signature of Shiva on earth.",
+ "mechanism": [],
+ "cast": {
+  "Shiva": "Lord Shiva in a calm, divine form, with a crescent moon in his matted hair, wearing tiger skin, skin glowing with a soft blue-white light, serene expression.",
+  "Parvati": "Goddess Parvati in a graceful form, wearing a traditional red and gold saree, ornate temple jewellery, with a serene and motherly expression.",
+  "Mandhata": "Ancient Indian king Mandhata, wearing a golden crown and silk dhoti, regal beard, hands folded in deep devotion."
+ },
+ "scenes": [
+  {
+   "vo": "Narmada nadi ke beech, ye dweep kudrati taur par 'Om' ke akaar mein bana hai.",
+   "type": "image",
+   "prompt": "Aerial view of the Omkareshwar temple island in the Narmada river, shaped like the sacred Om symbol, painterly cinematic Indian miniature style, warm golden hour light reflecting on water.",
+   "motion": "push",
+   "title": "Om akaar ka dweep",
+   "keywords": [
+    "Narmada",
+    "Om akaar"
+   ],
+   "real": {
+    "q": "Omkareshwar temple aerial view Om shape",
+    "kind": "photo",
+    "subject": "Om-shaped island of Omkareshwar"
+   },
+   "big": null,
+   "small": null,
+   "sub": null,
+   "label": null,
+   "skin": "painting"
+  },
+  {
+   "vo": "Is pavitra sthaan ko Raja Mandhata ki kathin tapasya ne jagaya tha.",
+   "type": "image",
+   "prompt": "King Mandhata in deep meditation on a river bank, surrounded by ancient trees, glowing aura around him. Mandhata: Ancient Indian king Mandhata, wearing a golden crown and silk dhoti, regal beard, hands folded in deep devotion.",
+   "motion": "pull",
+   "title": "Raja Mandhata ki tapasya",
+   "keywords": [
+    "Mandhata",
+    "tapasya"
+   ],
+   "big": null,
+   "small": null,
+   "sub": null,
+   "label": null,
+   "skin": "painting",
+   "pic": {
+    "refs": [],
+    "tries": [
+     {
+      "file": "s1o.jpg",
+      "prompt": "Mature regal king Mandhata, broad shoulders, serene oval face, dark hair tied in jeweled topknot, warm brown skin, golden crown with ruby and pearl ornaments, cream silk dhoti with gold border, sacred thread across chest, pearl necklace and gold armlets, seated cross-legged on flat stone platform, hands pressed together at heart center in deep devotion, divine golden aura surrounding form, beneath ancient banyan and peepal trees with hanging aerial roots, soft green grass, dappled sunlight filtering through dense canopy, smooth worn stones marking centuries of devotion, painterly cinematic Indian miniature-meets-epic style, warm gold and deep maroon, soft divine light, ornate but uncluttered, vertical 9:16 composition, king centered in middle third, generous calm space above and below",
+      "fails": {},
+      "top": 0.21
+     }
+    ],
+    "passed": true
+   }
+  },
+  {
+   "vo": "Unhone Shiv se var maanga ki wo hamesha ke liye yahan nivaas karein.",
+   "type": "image",
+   "prompt": "Lord Shiva appearing from a pillar of light in front of King Mandhata, divine rays filling the frame. Shiva: Lord Shiva in a calm, divine form, with a crescent moon in his matted hair, wearing tiger skin, skin glowing with a soft blue-white light, serene expression.",
+   "motion": "push",
+   "keywords": [
+    "Shiv",
+    "nivaas"
+   ],
+   "title": "",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "label": null,
+   "skin": "painting",
+   "pic": {
+    "refs": [
+     "Shiva",
+     "Ganga"
+    ],
+    "tries": [
+     {
+      "file": "s2q0.jpg",
+      "prompt": "Lord Shiva, the divine masculine form with ash-grey blue-grey skin, matted jata piled high with crescent moon and flowing Ganga, third eye vertical on forehead, calm compassionate face, tiger skin draped over loins, Vasuki snake coiled at neck, rudraksha mala on chest, trident in right hand, damru in left, standing in samabhanga posture, appears from a brilliant vertical pillar of golden light before King Mandhata, seated cross-legged on a stone platform, hands folded at heart, painterly cinematic Indian miniature-meets-epic style, warm gold and deep maroon, soft divine light, vertical 9:16 composition.",
+      "fails": {},
+      "top": 0.18
+     }
+    ],
+    "passed": true
+   }
+  },
+  {
+   "vo": "Ek aur katha ke anusar, Vindhya parvat ne yahan mitti ka ling banakar prarthna ki thi.",
+   "type": "image",
+   "prompt": "A personified mountain deity Vindhya bowing down before a small Shiva Lingam made of dark river sand, Narmada river in the background, ancient Vedic atmosphere.",
+   "motion": "pan",
+   "title": "Vindhya parvat ki bhakti",
+   "keywords": [
+    "Vindhya",
+    "mitti ling"
+   ],
+   "big": null,
+   "small": null,
+   "sub": null,
+   "label": null,
+   "skin": "puppet",
+   "pic": {
+    "refs": [
+     "Shiva"
+    ],
+    "tries": [
+     {
+      "file": "s3q0.jpg",
+      "prompt": "Vindhya Mountain Deity, a massive personified mountain with broad rocky shoulders, skin textured grey-brown stone with moss green patches, hair like cascading roots and vines, wearing a simple bark cloth dhoti and rudraksha beads, kneeling in deep reverence with hands folded at crown and head bowed low, before a small sand lingam on a flat stone platform, Narmada river with calm blue-green water in the background, painterly cinematic Indian miniature-meets-epic style, warm gold and deep maroon, soft divine light, vertical 9:16 composition.",
+      "fails": {},
+      "top": 0.35
+     }
+    ],
+    "passed": true
+   }
+  },
+  {
+   "vo": "Tab Mahadev ne us jyoti ko do bhaagon mein baant diya.",
+   "type": "image",
+   "prompt": "A glowing golden Shiva Lingam splitting into two identical radiant forms, divine energy sparks, deep maroon and gold background.",
+   "motion": "punch",
+   "keywords": [
+    "Jyoti",
+    "do bhaag"
+   ],
+   "title": "",
+   "big": null,
+   "small": null,
+   "sub": null,
+   "label": null,
+   "skin": "puppet",
+   "pic": {
+    "refs": [
+     "Shiva",
+     "Ganga"
+    ],
+    "tries": [
+     {
+      "file": "s4q0.jpg",
+      "prompt": "A glowing golden Shiva Lingam, smooth polished stone surface, splitting vertically into two identical radiant forms, divine energy sparks and ethereal light trails emanating from the center, suspended in mid-air. The scene is set against a deep maroon and gold background with subtle painterly textures. Soft divine light illuminates the lingam, creating a halo effect. Vertical 9:16 composition, the subject is centered in the middle third, with generous calm space above and below, cinematic Indian miniature-meets-epic style.",
+      "fails": {},
+      "top": 0.28
+     }
+    ],
+    "passed": true
+   }
+  },
+  {
+   "vo": "Ek Omkareshwar aur doosra Mamleshwar... do mandir, magar ek hi shakti.",
+   "type": "image",
+   "prompt": "Two majestic stone temples with intricate carvings and tall shikharas on opposite banks of a river, connected by a divine golden thread of light.",
+   "motion": "pull",
+   "title": "Ek hi shakti",
+   "keywords": [
+    "Omkareshwar",
+    "Mamleshwar"
+   ],
+   "big": null,
+   "small": null,
+   "sub": null,
+   "label": null,
+   "skin": "painting",
+   "pic": {
+    "refs": [
+     "Shiva",
+     "Ganga"
+    ],
+    "tries": [
+     {
+      "file": "s5q0.jpg",
+      "prompt": "Two majestic ancient Nagara-style sandstone temples with tall curvilinear shikharas crowned by golden kalashas, positioned on opposite banks of a wide sacred river, connected by a shimmering divine golden thread of light arching across the water. Painterly cinematic Indian miniature-meets-epic style, warm gold and deep maroon palette, soft divine light, ornate but uncluttered, vertical 9:16 composition, temples centered in the middle third, generous calm space above and below, peaceful flowing energy, rippling water reflecting the golden glow.",
+      "fails": {},
+      "top": 0.17
+     }
+    ],
+    "passed": true
+   }
+  },
+  {
+   "vo": "Ye sthaan sikhata hai ki sachhi bhakti Bhagwan ko bhi dharti par rok sakti hai.",
+   "type": "image",
+   "prompt": "A modern devotee with folded hands looking at the temple shikhara, reflection in the Narmada water, peaceful and spiritual vibe.",
+   "motion": "push",
+   "title": "Bhakti ki shakti",
+   "keywords": [
+    "Bhakti",
+    "Bhagwan"
+   ],
+   "big": null,
+   "small": null,
+   "sub": null,
+   "label": null,
+   "skin": "pattachitra",
+   "pic": {
+    "refs": [],
+    "tries": [
+     {
+      "file": "s6.jpg",
+      "prompt": "Young adult devotee medium build warm brown skin short neat black hair peaceful oval face closed eyes saffron cotton kurta white cotton dhoti bare feet simple wooden bead mala at wrist standing on ancient sandstone ghat steps hands folded at chest gaze lifted toward towering curvilinear shikhara crowned with amalaka and golden kalasha intricate deity carvings adorning temple walls pillared mandapa behind sacred Narmada River calm blue-green water mirroring sky and temples lotus petals drifting morning mist rising divine golden hour light dancing on ripples surrounding banyan trees painterly cinematic Indian miniature-meets-epic style warm gold deep maroon soft divine light ornate uncluttered vertical 9:16 composition subject centered middle third generous calm space above below reflection shimmering in water",
+      "fails": {},
+      "top": 0.26
+     }
+    ],
+    "passed": true
+   }
+  },
+  {
+   "vo": "Kya aapne kabhi Narmada kinare is divya shakti ko mehsoos kiya hai?",
+   "type": "card",
+   "prompt": "The Omkareshwar temple glowing under a starry night sky, moon reflecting in the river.",
+   "motion": "pull",
+   "big": "OM NAMAH SHIVAY",
+   "small": "Comment mein bataiye",
+   "keywords": [
+    "Narmada",
+    "shakti"
+   ],
+   "real": {
+    "q": "Omkareshwar temple night view",
+    "kind": "photo",
+    "subject": "Omkareshwar temple at night"
+   },
+   "title": "",
+   "sub": null,
+   "label": null,
+   "skin": "painting"
+  }
+ ],
+ "music_mood": "mystery",
+ "caption": "Omkareshwar: Narmada ke beech swayam 'Om' akaar ka dweep! 🕉️✨\n\nRaja Mandhata ki tapasya aur Vindhya parvat ki bhakti ne ye sthaan jagaya. Do mandir — Omkareshwar aur Mamleshwar — ek hi shakti ke do roop.\n\nBataiye, aapka pasandida Jyotirlinga kaunsa hai? 👇",
+ "hashtags": [
+  "#Omkareshwar",
+  "#Jyotirlinga",
+  "#Mahadev",
+  "#PuraanKiKatha",
+  "#ShivGatha",
+  "#Narmada"
+ ],
+ "claims": [
+  {
+   "claim": "Omkareshwar is the fourth Jyotirlinga.",
+   "basis": "Traditional counting in Shiva Purana and other texts."
+  },
+  {
+   "claim": "The island is naturally shaped like the Om symbol.",
+   "basis": "Geographical fact of Mandhata island in Narmada river."
+  },
+  {
+   "claim": "King Mandhata's penance brought Shiva to reside here permanently.",
+   "basis": "Shiva Purana, Kotirudra Samhita."
+  },
+  {
+   "claim": "Vindhya mountain worshipped a sand lingam here.",
+   "basis": "Shiva Purana, Kotirudra Samhita."
+  },
+  {
+   "claim": "The Jyotirlinga is split into two: Omkareshwar and Mamleshwar.",
+   "basis": "Shiva Purana, Kotirudra Samhita, which describes the division of the lingam for Vindhya and the sages."
+  }
+ ],
+ "brain_ids": [
+  "b69d65467f",
+  "fc294ac58f",
+  "e15cfaed29",
+  "9db4cc694f",
+  "0755cc155a",
+  "1e1964f463",
+  "b2fabb69c4",
+  "7f620e6fdf",
+  "6ce7203c71",
+  "161339712e",
+  "f945e2a937",
+  "b349ca221e",
+  "7fa182f8ef",
+  "4396759d41"
+ ],
+ "skin": "painting",
+ "bible": {
+  "figures": [
+   {
+    "name": "King Mandhata",
+    "scenes": [
+     2,
+     3
+    ],
+    "look": "Mature regal king, broad shoulders, serene oval face, dark hair tied in jeweled topknot, warm brown skin, golden crown with ruby and pearl ornaments, cream silk dhoti with gold border, bare chest with sacred thread, pearl necklace and gold armlets, seated in padmasana on stone platform, hands folded at heart in deep devotion, divine golden aura surrounding form"
+   },
+   {
+    "name": "Lord Shiva",
+    "scenes": [
+     3,
+     5
+    ],
+    "look": "Divine masculine form, ash-grey blue-grey skin, tall athletic build, matted jata piled high with crescent moon and flowing Ganga, third eye vertical on forehead, calm compassionate face, tiger skin draped over loins, Vasuki snake coiled at neck, rudraksha mala on bare chest, trident in right hand, damru in left, standing in samabhanga posture, radiant golden light emanating from body"
+   },
+   {
+    "name": "Vindhya Mountain Deity",
+    "scenes": [
+     4
+    ],
+    "look": "Massive personified mountain, broad rocky shoulders, skin textured grey-brown stone with moss green patches, hair like cascading roots and vines, weathered kind face with deep-set eyes, simple bark cloth dhoti, bare chest with rudraksha beads, kneeling in deep reverence, hands folded at crown, head bowed low before small sand lingam, ancient primordial presence"
+   },
+   {
+    "name": "Modern Devotee",
+    "scenes": [
+     7
+    ],
+    "look": "Young adult, medium build, warm brown skin, short neat black hair, peaceful oval face with closed eyes, saffron cotton kurta, white cotton dhoti, bare feet, simple wooden bead mala at wrist, standing on ghat steps, hands folded in anjali mudra at chest, gaze directed upward at temple shikhara, reflection visible in calm river water"
+   }
+  ],
+  "places": [
+   {
+    "name": "Omkareshwar Temple Island",
+    "look": "Sacred island shaped like Om symbol in Narmada river, ancient Nagara-style sandstone temple complex with tall curvilinear shikhara crowned by amalaka and golden kalasha, intricate deity carvings on walls, pillared mandapa leading to sanctum housing swayambhu lingam, stone steps descending to water, surrounded by banyan trees, golden hour light reflecting on rippling water"
+   },
+   {
+    "name": "Narmada River",
+    "look": "Wide sacred river with calm blue-green water mirroring sky and temples, gentle currents carrying lotus petals, sandy ghats with stone steps on both banks, morning mist rising from surface, divine golden light dancing on waves, ancient spiritual atmosphere, reflections of twin temples shimmering, peaceful flowing energy connecting both shores"
+   },
+   {
+    "name": "Mandhata Meditation Bank",
+    "look": "Flat stone platform on river bank beneath ancient banyan and peepal trees with hanging aerial roots, soft green grass, dappled sunlight filtering through dense canopy, sacred fig leaves rustling, gentle river breeze, smooth worn stones marking centuries of devotion, peaceful secluded atmosphere ideal for deep tapasya"
+   },
+   {
+    "name": "Omkareshwar Temple",
+    "look": "Majestic Nagara sandstone temple on island, towering curvilinear shikhara with intricate horizontal bands, amalaka and golden kalasha finial, walls covered in deity sculptures and floral motifs, pillared mandapa with carved ceilings, sanctum housing self-manifested lingam on silver yoni pedestal, golden flag fluttering atop, warm golden light bathing structure"
+   },
+   {
+    "name": "Mamleshwar Temple",
+    "look": "Twin Nagara temple on mainland opposite bank, matching tall shikhara with detailed carvings, sandstone construction mirroring island counterpart, ornate entrance porch with sculpted guardians, sanctum housing lingam on bronze pedestal, connected by visible golden thread of divine light across river, symmetrical peaceful presence, evening lamps glowing"
+   },
+   {
+    "name": "Sand Shiva Lingam",
+    "look": "Small humble lingam formed from dark Narmada river sand, smooth cylindrical shape with rounded top, natural granular texture visible, resting on simple stone yoni base, placed on flat river rock, unadorned simple form radiating quiet power, ancient Vedic simplicity, surrounded by offered bilva leaves and flowers"
+   },
+   {
+    "name": "Golden Shiva Lingam",
+    "look": "Radiant golden lingam suspended in divine space, perfect cylindrical form with luminous surface, emitting brilliant sparks of golden energy, resting on ornate golden yoni pedestal with lotus petals, splitting vertically into two identical glowing forms, each complete and whole, deep maroon and gold cosmic background, supreme divine manifestation"
+   }
+  ]
+ }
+}

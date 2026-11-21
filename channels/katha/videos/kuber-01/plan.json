@@ -24,7 +24,29 @@
    "big": null,
    "small": null,
    "title": null,
-   "skin": "painting"
+   "skin": "painting",
+   "pic": {
+    "refs": [
+     "Kuber"
+    ],
+    "tries": [
+     {
+      "file": "s0q0.jpg",
+      "prompt": "the idol from image 1, a plump middle‑aged deity, golden crown atop short black hair, broad smiling face, deep brown eyes, heavy gold necklaces, armlets, anklets, crimson silk dhoti with gold embroidery, bare chest adorned with jeweled chains, holding a golden money pot in left hand, right hand raised in a surprised gesture, standing in the vast rectangular KuberPalaceHall with polished gold panels, high arched filigree ceiling, mirrored marble floor reflecting golden light, rows of empty golden plates on long tables, towering lotus‑carved pillars, soft warm glow from hidden lamps, painterly cinematic Indian miniature‑meets‑epic illustration, warm gold and deep maroon palette, soft divine rim light bathing the figure, vertical 9:16 composition, the idol centered in the middle third with generous calm space above and below.",
+      "fails": {
+       "p3": 0.61
+      },
+      "top": 0.61
+     },
+     {
+      "file": "s0q1.jpg",
+      "prompt": "Kuber, plump middle-aged deity, golden crown atop short black hair, broad serene face, deep brown eyes, heavy gold necklaces, armlets, anklets, crimson silk dhoti with gold embroidery, jeweled chains draped over chest, holds a golden money pot in left hand, right hand raised in a gentle gesture, standing in the KuberPalaceHall, vast rectangular hall, walls of polished gold panels, high arched ceiling, floor of mirrored marble, rows of empty golden plates on long tables, painterly cinematic Indian miniature-meets-epic style, warm gold and deep maroon, soft divine light, vertical 9:16.",
+      "fails": {},
+      "top": 0.18
+     }
+    ],
+    "passed": true
+   }
   },
   {
    "vo": "Kuber ke paas itna sona tha, ki wo use dikhane ke liye ek bhoj rakhte hain.",
@@ -234,5 +256,79 @@
   "comment_q": "Kabhi dikhaava kiya? (Haan/Na)"
  },
  "skin": "painting",
- "music_credit": "Music: Kevin MacLeod (incompetech.com), CC BY 4.0"
+ "music_credit": "Music: Kevin MacLeod (incompetech.com), CC BY 4.0",
+ "bible": {
+  "figures": [
+   {
+    "name": "Kuber",
+    "scenes": [
+     1,
+     2,
+     3,
+     7,
+     8
+    ],
+    "look": "Plump middle‑aged deity, golden crown atop short black hair, broad smiling face, deep brown eyes, heavy gold necklaces, armlets, anklets, crimson silk dhoti with gold embroidery, bare chest adorned with jeweled chains, holds a golden money pot in left hand, right hand raised in gesture."
+   },
+   {
+    "name": "Lord Shiva",
+    "scenes": [
+     3,
+     4,
+     9
+    ],
+    "look": "Tall serene deity, ash‑grey blue skin, long matted dreadlocks tied with a crescent moon, third eye on forehead, serpent coiled around neck, tiger‑skin loincloth, bare chest smeared with ash, trident resting beside, damru hanging from wrist, seated cross‑legged on icy peak."
+   },
+   {
+    "name": "Bal Ganesh",
+    "scenes": [
+     4,
+     5,
+     7,
+     10,
+     12
+    ],
+    "look": "Young child deity, elephant head with one broken tusk, large expressive eyes, small trunk curled, pot‑belly, four arms (two holding modak, two blessing), bright red silk dhoti with gold trim, gold crown with tiny jewels, seated on golden throne, gentle smile."
+   }
+  ],
+  "places": [
+   {
+    "name": "KuberPalaceHall",
+    "look": "Vast rectangular hall, walls of polished gold panels, high arched ceiling with intricate filigree, floor of mirrored marble reflecting golden light, rows of empty golden plates on long tables, towering pillars carved with lotus motifs, soft warm glow from hidden lamps."
+   },
+   {
+    "name": "KuberTreasureHall",
+    "look": "Endless vaulted chamber, mountains of gold coins spilling over jeweled chests, walls lined with shelves of rubies, emeralds, pearls, servants in crimson livery carrying golden trays, ceiling fresco of celestial dancers, radiant amber light."
+   },
+   {
+    "name": "MountKailash",
+    "look": "Snow‑capped sacred peak, sheer white cliffs dusted with glittering frost, a flat plateau of pale stone where a simple stone seat rests, thin mist swirling, distant sound of conch, pale sunrise painting horizon pink."
+   },
+   {
+    "name": "GrandDiningHall",
+    "look": "Opulent dining hall, long teak table covered with embroidered cloth, massive golden thali centered, ornate silver cutlery, walls hung with tapestries of deities, chandeliers of crystal casting soft gold, attendants in white turbans standing reverently."
+   },
+   {
+    "name": "PalaceKitchen",
+    "look": "Huge kitchen, towering copper cauldrons cold and empty, stone shelves bare, massive grinding stones idle, fire pits dark, cooks in simple dhotis with worried expressions, steam absent, faint scent of sandalwood."
+   },
+   {
+    "name": "SnowyPathKailash",
+    "look": "Steep winding path up icy slope, packed snow crunching underfoot, pine trees laden with frost, prayer flags fluttering blue, distant silhouette of temple spire, pale moonlight casting silver highlights."
+   },
+   {
+    "name": "SimpleLeafPlateSetting",
+    "look": "Modest outdoor space, single banana leaf plate on low wooden stool, few grains of rice glistening, small clay diya flickering, surrounding grass soft, gentle golden aura enveloping scene."
+   },
+   {
+    "name": "TempleBackground",
+    "look": "Ancient stone temple sanctum, carved pillars with lotus capitals, sanctum doorway framed by torana, single oil lamp glowing, floor of polished black stone, faint incense smoke rising, warm amber hue."
+   },
+   {
+    "name": "GoldenBackground",
+    "look": "Soft gradient backdrop of radiant gold, subtle texture of woven silk, faint mandala pattern embossed, gentle light rays emanating outward, no architecture, pure luminous field."
+   }
+  ]
+ },
+ "pic_redraws": 1
 }
