@@ -67,7 +67,7 @@
   "topic": "Account mein achanak anjaan paisa aaya? Wapas mat bhejna, ye naya scam hai",
   "title": "Anjaan paisa aaya, call aaya? Ye jump deposit scam hai",
   "qc_ok": true,
-  "status": "scheduled",
+  "status": "posted",
   "review": [],
   "sched": {
    "slot": 1795271400,
@@ -82,6 +82,11 @@
    "fb": "1642270287642251",
    "ig_container": "18138406102798453",
    "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/finance-1119-0028-1795189184.mp4"
+  },
+  "posted": {
+   "at": "2026-11-21 20:00",
+   "fb": "1642270287642251",
+   "ig": "18231977233336797"
   }
  },
  {

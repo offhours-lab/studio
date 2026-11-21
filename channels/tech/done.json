@@ -87,7 +87,7 @@
   "topic": "Phone garam kyun hota hai",
   "title": "Phone Garam Kyun Hota Hai?",
   "qc_ok": true,
-  "status": "scheduled",
+  "status": "posted",
   "sched": {
    "slot": 1795271400,
    "at": "2026-11-21 20:00",
@@ -103,6 +103,12 @@
    "fb": "1671874598067871",
    "ig_container": "18140702506757620",
    "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/tech-v2-01-1795189100.mp4"
+  },
+  "posted": {
+   "at": "2026-11-21 20:00",
+   "fb": "1671874598067871",
+   "yt": "WWH5QzG0k-U",
+   "ig": "18138647144507155"
   }
  },
  {
@@ -246,5 +252,13 @@
    "visual: checklist: Is any frame a near-empty box, card or placeholder block where the line explains something? -> Scene 9",
    "visual score 4/10"
   ]
+ },
+ {
+  "job": "1121-1855",
+  "topic": "Noise cancellation 'khamoshi' kaise banata hai? (Visual: Two waves hitting each other and flattening out)",
+  "title": "Noise cancellation khamoshi kaise banata hai?",
+  "qc_ok": true,
+  "status": "made",
+  "review": []
  }
 ]

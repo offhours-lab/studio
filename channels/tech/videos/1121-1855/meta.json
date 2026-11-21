@@ -3,7 +3,8 @@
  "job": "1121-1855",
  "topic": "Noise cancellation 'khamoshi' kaise banata hai? (Visual: Two waves hitting each other and flattening out)",
  "voice_gate": 2,
- "stage": "prepped",
+ "stage": "done",
  "lang": "hi",
- "prepped_at": "2026-11-21 19:19"
+ "prepped_at": "2026-11-21 19:19",
+ "brain_judged": true
 }

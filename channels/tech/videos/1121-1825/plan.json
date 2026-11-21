@@ -65,18 +65,18 @@
    "vo": "Iska kaam hai friction khatam karna. Bas button dabao aur apna task bolo.",
    "type": "flow",
    "nodes": [
-    "ACTIVATE",
+    "PRESS",
     "SPEAK",
-    "EXECUTE"
+    "DONE"
    ],
-   "label": "USER WORKFLOW",
+   "label": "WORKFLOW",
    "bg_prompt": "A person's thumb pressing a side button on a small black tech gadget, dramatic low-key lighting.",
    "keywords": [
     "friction",
     "task"
    ],
    "motion": "push",
-   "title": "",
+   "title": "EASY STEPS",
    "big": null,
    "small": null,
    "sub": null,
@@ -85,21 +85,21 @@
     "kind": "photo",
     "subject": "A human thumb interacting with the physical button on the device"
    },
-   "skin": "keynote"
+   "skin": "keynote",
+   "prompt": ""
   },
   {
    "vo": "Aapki voice seedha cloud mein 'Muse Secure VM' tak jaati hai.",
    "type": "code",
-   "title": "CLOUD CONNECTION",
+   "title": "CLOUD LINK",
    "lines": [
-    "connect",
-    "secure",
-    "routing",
-    "ready"
+    "CONNECTING",
+    "ENCRYPTING",
+    "VM READY"
    ],
    "highlight": 3,
-   "label": "MUSE SECURE VM",
-   "bg_prompt": "Soft, out-of-focus ambient background for a technology explainer about: muse secure vm, cloud connection, voice secure vm, meta’s muse charm ai device kaise kaam karta hai?. Style: image made only of glowing amber monospace ASCII characters on dark CRT glass, scanlines, slight screen curvature, monochrome amber phosphor, no photo. Abstract light, depth and colour only: no screens, no monitors, no phones showing anything, no terminals, no windows, no text, no letters, no numbers, no logos, no watermark, vertical 9:16.",
+   "label": "SECURE VM",
+   "bg_prompt": "Soft, out-of-focus ambient background for a technology explainer about: secure vm, cloud link, voice secure vm, meta’s muse charm ai device kaise kaam karta hai?. Style: image made only of glowing amber monospace ASCII characters on dark CRT glass, scanlines, slight screen curvature, monochrome amber phosphor, no photo. Abstract light, depth and colour only: no screens, no monitors, no phones showing anything, no terminals, no windows, no text, no letters, no numbers, no logos, no watermark, vertical 9:16.",
    "keywords": [
     "voice",
     "Secure VM"
@@ -151,29 +151,29 @@
    "vo": "Sirf jawab nahi deta... ye khud websites par jaakar forms bharta hai aur bookings karta hai.",
    "type": "flow",
    "prompt": "A cinematic shot of a digital cursor moving rapidly across a web form, filling in text boxes automatically, high-tech overlay.",
-   "label": "AUTO EXEC",
+   "label": "ACTION FLOW",
    "keywords": [
     "forms",
     "bookings"
    ],
    "motion": "push",
-   "title": "AUTO EXECUTION",
+   "title": "AUTO BOOKING",
    "big": null,
    "small": null,
    "sub": null,
    "skin": "hologram",
    "nodes": [
     {
-     "label": "Open site"
+     "label": "OPEN SITE"
     },
     {
-     "label": "Fill form"
+     "label": "FILL FORM"
     },
     {
-     "label": "Book now"
+     "label": "BOOKED"
     }
    ],
-   "bg_prompt": "Vertical scene for a technology explainer about: auto-execution, auto execution, forms bookings, meta’s muse charm ai device kaise kaam karta hai?. Style: glowing cyan wireframe hologram made of thin light lines floating above a round projector pad, near-black stage, faint dot grid, depth fog, no solid surfaces, no photo. One clear subject in the middle third, empty dark space at the top and bottom, no people's faces, no text, no letters, no logos, no watermark, vertical 9:16."
+   "bg_prompt": "Vertical scene for a technology explainer about: auto-execution, forms bookings, Meta's Muse Charm AI device kaise kaam karta hai?. Style: glowing cyan wireframe hologram made of thin light lines floating above a round projector pad, near-black stage, faint dot grid, depth fog, no solid surfaces, no photo. One clear subject in the middle third, empty dark space at the top and bottom, no people's faces, no text, no letters, no logos, no watermark, vertical 9:16."
   },
   {
    "vo": "Jaise movie tickets dhoondhna ya dentist appointment manage karna... sab automatic.",
@@ -229,23 +229,21 @@
    "items": [
     {
      "label": "CHATBOT",
-     "value": "ONLY TALKS",
-     "pct": 30
+     "value": "TALKS"
     },
     {
      "label": "MUSE AGENT",
-     "value": "TAKES ACTION",
-     "pct": 100
+     "value": "ACTS"
     }
    ],
-   "label": "AGENT VS CHATBOT",
+   "label": "MUSE POWER",
    "bg_prompt": "A split screen showing a simple text bubble on one side and a complex mechanical gear system on the other.",
    "keywords": [
     "personal agent",
     "background"
    ],
    "motion": "push",
-   "title": "",
+   "title": "AGENT VS BOT",
    "big": null,
    "small": null,
    "sub": null,

@@ -1,0 +1,26 @@
+{
+ "topic": "Noise cancellation 'khamoshi' kaise banata hai? (Visual: Two waves hitting each other and flattening out)",
+ "title": "Noise cancellation khamoshi kaise banata hai?",
+ "format": {
+  "ok": true,
+  "video": "h264,1080,1920,30/1",
+  "audio": "aac",
+  "lufs": -13.5,
+  "true_peak": -3.2,
+  "dur": 45.83
+ },
+ "vision": {
+  "ok": null,
+  "score": null,
+  "problems": [],
+  "note": "judged by review.py"
+ },
+ "voice": {
+  "ok": true,
+  "method": "whisper",
+  "matched": 0.9224137931034483,
+  "words": 137,
+  "problems": []
+ },
+ "ok": true
+}

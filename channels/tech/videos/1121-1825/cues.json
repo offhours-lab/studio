@@ -1,7 +1,7 @@
 {
  "lufs": -14,
  "music": {
-  "file": "music/lib/tech/hot-pursuit.mp3",
+  "file": "music/lib/tech/furious-freak.mp3",
   "offset": 6.0,
   "gain_db": -22,
   "fade_out": 1.5
@@ -42,7 +42,7 @@
    "file": "sfx/type-soft.mp3",
    "gain_db": -24,
    "align": "onset",
-   "dur": 2.5
+   "dur": 2.1
   },
   {
    "t": 14.81,

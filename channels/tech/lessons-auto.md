@@ -512,3 +512,29 @@
 - visual: checklist: Does a frame show a wrong or fake logo for the brand it names? -> Scene 6 and Scene 9
 - visual: checklist: Is any frame a near-empty box, card or placeholder block where the line explains something? -> Scene 9
 - visual score 4/10
+
+## 1121-1855 (pre-render check)
+- EMPTY: the centre of the frame has no main visual in both stills
+- OVERLAP: the watermark or footer text is colliding directly with the caption text at the bottom
+
+## 1121-1855 (pre-render check)
+- FIT: extra text 'ANC' obscures the flow diagram
+- OVERLAP: extra text 'kaisie.Tech' and 'best kaam karta hai?' clutter the screen
+
+## 1121-1825 (pre-render check)
+- READ: text contains heavy spelling errors and repeating gibberish (auto-exvcution, forms boockgs, meti's s muse charm ai dlevse)
+- FIT: broken/glitched UI text overlaying the central graphic
+
+## 1121-1825 (pre-render check)
+- OVERLAP: caption text covers the hand visual
+- FIT: header text is garbled and unreadable
+- FIT: text contains significant misspellings and glitchy characters
+- EMPTY: center frame lacks the required comparison data and logo
+
+## 1121-1855 (pre-render check)
+- READ: label text under comparison bars is too small and faint to read on a phone
+
+## 1121-1825 (pre-render check)
+- FIT: the flow nodes text is completely corrupted and garbled into placeholder gibberish
+- OVERLAP: node text overlapping awkwardly on screen
+- FIT: the logo text is cut off or rendered incorrectly showing 'Mea' instead of Meta

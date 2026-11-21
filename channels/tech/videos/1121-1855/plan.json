@@ -63,7 +63,7 @@
    ],
    "label": "SIGNAL PATH",
    "motion": "pan",
-   "title": "REAL-TIME ANALYSIS",
+   "title": "REAL-TIME",
    "keywords": [
     "chip",
     "wave shape"
@@ -94,7 +94,7 @@
   },
   {
    "vo": "Do waves milte hain, ek dusre ko kaat dete hain, shor flat ho jata hai.",
-   "type": "clip",
+   "type": "flow",
    "prompt": "Split screen: left, original noise wave (orange) enters ear; right, inverted wave (blue) from speaker meets it. At collision point they flatten to a straight line. Slow-mo, premium render on pure black.",
    "motion": "punch",
    "title": "DESTRUCTIVE INTERFERENCE",
@@ -103,11 +103,16 @@
     "kaat dete hain"
    ],
    "bg_prompt": "Two waves colliding and cancelling inside ear canal visualization on pure black",
-   "big": null,
+   "big": "Wave Cancel",
    "small": null,
-   "sub": null,
-   "label": null,
-   "skin": "hologram"
+   "sub": "Flat line",
+   "label": "Cancel",
+   "skin": "hologram",
+   "nodes": [
+    "Original",
+    "Inverted",
+    "Result"
+   ]
   },
   {
    "vo": "Nateeja: engine, AC, traffic ka drone gayab, 20 se 30 dB tak kam hota hai.",
@@ -195,10 +200,10 @@
   {
    "vo": "Aapke headphone ka ANC kaunsi frequency best kaam karta hai? Comment mein batao, hum padhenge.",
    "type": "title",
-   "big": "COMMENT KARO",
-   "sub": "Which frequency cancels best for you?",
+   "big": "COMMENT",
+   "sub": "Best freq?",
    "motion": "pull",
-   "title": "",
+   "title": "Comment",
    "keywords": [
     "comment",
     "frequency"
@@ -211,7 +216,7 @@
   }
  ],
  "music_mood": "calm",
- "caption": "Noise cancellation do waves ko takra ke khamoshi banata hai 🎧\n\nDestructive interference asli hero hai.\n\nAapke headphone ka ANC kaunsi frequency best kaam karta hai?",
+ "caption": "Noise cancellation do waves ko takra ke khamoshi banata hai 🎧\n\nDestructive interference asli hero hai.\n\nAapke headphone ka ANC kaunsi frequency best kaam karta hai?\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
  "hashtags": [
   "#KaiseTech",
   "#NoiseCancellation",
@@ -275,5 +280,6 @@
   "6055c69660",
   "e15cfaed29"
  ],
- "skin": "keynote"
+ "skin": "keynote",
+ "music_credit": "Music: Kevin MacLeod (incompetech.com), CC BY 4.0"
 }
