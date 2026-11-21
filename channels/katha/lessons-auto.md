@@ -494,3 +494,7 @@
 ## The Significance of Devuthani Ekadashi: When Lord Vishnu Wak (story check)
 - STORY scene 1: false: 'Today is 22 November 2026 (Bees November do hazaar chhabis).': All 2026 news sources state Dev Uthani Ekadashi 2026 fell on Friday, 20 November 2026; Ekadashi Tithi ended 06:31 AM on  (the two checks disagree on what really happened: REMOVE this detail, do not replace it)
 - STORY scene 1: false: 'Lord Vishnu woke up today from his four-month sleep.': Sources say Vishnu awakens on Dev Uthani Ekadashi (20 Nov 2026), not 22 Nov. (the two checks disagree on what really happened: REMOVE this detail, do not replace it)
+
+## 12 Jyotirlinga ki katha - Part 4: Omkareshwar (story check)
+- STORY scene 2: invented: 'Every night in Omkareshwar temple, Mahadev and Mata Parvati themselves come to play Chausar (dice).': No source mentions nightly divine dice games; this vivid detail appears nowhere in the provided sources or standard Pura (the two checks disagree on what really happened: R
+- STORY scene 3: invented: 'In the morning, dice pieces are found scattered as if someone just finished playing.': Corollary to the invented nightly Chausar claim; no source or scripture records physical dice remnants. (the two checks disagree on what really happened: REMOVE this detail, do not replac

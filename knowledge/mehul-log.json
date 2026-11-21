@@ -193,5 +193,60 @@
    "rule: For 'India connection' style videos, the script must explicitly name the Indian studio or developer involved; vague claims about 'Indian talent' are no longer permitted."
   ],
   "dry": false
+ },
+ {
+  "t": "2026-11-21 22:31",
+  "page": "finance",
+  "score": 8,
+  "verdict": "The output quality is solid and accurate, but text layout in numbers and lists needs sharper alignment to avoid clutter.",
+  "did": [
+   "rule: For any video featuring complex calculations or EMI breakdowns, ensure the numerical values on screen remain consistent across consecutive scenes without conflicting shifts.",
+   "code task (the healer works on it): engine/compose_lab.py: Add strict column boundary checks during rendering to prevent text overlap in multi-column list layouts."
+  ],
+  "dry": false
+ },
+ {
+  "t": "2026-11-21 22:31",
+  "page": "jain",
+  "score": 8,
+  "verdict": "The visual storytelling and temple architecture look serene and respectful, but we still need to eradicate saffron/orange robe errors on monks and ensure zero tolerance for skin color anomalies on Tirthankaras.",
+  "did": [
+   "rule: For Navkar Bhav (@navkarbhav), all Jain monks and ascetics in image generation prompts must be explicitly specified as wearing pure white unstitched robes (Shwetambar tradition), strictly forbidding saffron, orange, or red cloth.",
+   "code task (the healer works on it): Update engine/muse.py to add a hard negative prompt constraint against blue, green, or grey skin tones on any Tirthankara, idol, or ascetic image generations."
+  ],
+  "dry": false
+ },
+ {
+  "t": "2026-11-21 22:32",
+  "page": "katha",
+  "score": 8,
+  "verdict": "The visuals are striking and deeply devotional, but lingering English labels like 'SROAT' and 'DIVINE JUSTICE' still slip through in some frames despite previous rule reminders.",
+  "did": [
+   "rule: Completely ban all English words, acronyms, and source labels (such as 'SROAT' or 'DIVINE JUSTICE') from overlay captions and corner tags; use pure Hinglish terms only.",
+   "code task (the healer works on it): engine/preflight.py: Add an automated regex check to block any video frame containing English title case words outside of valid URL handles before final approval."
+  ],
+  "dry": false
+ },
+ {
+  "t": "2026-11-21 22:34",
+  "page": "raaz",
+  "score": 6,
+  "verdict": "The visual quality and pacing are strong, but the scripts are still using forbidden names and the end cards are failing to comply with the mandatory signature rule.",
+  "did": [
+   "code task (the healer works on it): Update engine/plan.py to implement a strict blacklist filter for 'Mehul' and other internal names in character generation to prevent them from appearing in scripts or on-screen text.",
+   "code task (the healer works on it): Modify engine/serials.py to force the final frame of every video to strictly display 'Kal ek nayi kahani. Follow karo.' and remove any logic that allows 'Naya case jaldi' or other custom CTAs."
+  ],
+  "dry": false
+ },
+ {
+  "t": "2026-11-21 22:35",
+  "page": "tech",
+  "score": 8,
+  "verdict": "Today's output has solid lab visuals and accurate technical breakdowns, but some videos still slip in generic engagement bait at the end instead of the required technical takeaway.",
+  "did": [
+   "rule: Every tech video ending frame must feature a definitive technical takeaway or 'Did you know?' metric instead of generic comment prompts like 'Try Karoge?'.",
+   "code task (the healer works on it): Update engine/compose_lab.py to automatically validate and strip legacy engagement phrases from the final text overlay layer before rendering."
+  ],
+  "dry": false
  }
 ]

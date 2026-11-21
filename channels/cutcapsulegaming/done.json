@@ -347,7 +347,7 @@
   "job": "1120-1951b-c1",
   "topic": "WIN A SUSHI BOAT",
   "title": "WIN A SUSHI BOAT",
-  "status": "held",
+  "status": "removed",
   "review": [
    "loudness -17.3 LUFS"
   ],
@@ -530,7 +530,7 @@
   "job": "1120-2149b-c1",
   "topic": "BEN'S GTA 6 STREAM GOES WRONG",
   "title": "BEN'S GTA 6 STREAM GOES WRONG",
-  "status": "held",
+  "status": "removed",
   "review": [
    "not brand-safe: 'Nigga' in the clip (brands and campaigns pay for brand-safe clips only)",
    "Captioning error: The final frame shows incoherent text 'I YOU WHEN' instead of the actual transcript."
@@ -593,7 +593,7 @@
   "job": "1120-2159c-c1",
   "topic": "REFEREE'S POINT OF VIEW CAMERA",
   "title": "REFEREE'S POINT OF VIEW CAMERA",
-  "status": "scheduled",
+  "status": "posted",
   "review": [],
   "clip": {
    "url": "https://www.youtube.com/watch?v=63BIm4JRL7c",
@@ -611,6 +611,18 @@
    "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsulegaming-1120-2159c-c1-1795233831.mp4",
    "ig_container": "17905492401397877",
    "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsulegaming-1120-2159c-c1-1795233831.mp4"
+  },
+  "posted": {
+   "at": "2026-11-21 22:30",
+   "ig": "17954924400345099"
+  },
+  "submit": {
+   "campaign": "https://contentrewards.com/c/campaigns/4a7dff1e-ac34-4d20-9fa0-4dd3375f60c8",
+   "links": [
+    "https://www.instagram.com/reel/Df_VIFAAWqw/"
+   ],
+   "at": "2026-11-21 22:30",
+   "tries": 1
   }
  },
  {
@@ -653,7 +665,7 @@
   "job": "1121-1104a-c1",
   "topic": "FREE FOOTBALL CARDS",
   "title": "FREE FOOTBALL CARDS",
-  "status": "held",
+  "status": "removed",
   "review": [
    "loudness -16.2 LUFS"
   ],
@@ -679,7 +691,7 @@
   "job": "1121-1104a-c3",
   "topic": "FREE FOOTBALL CARDS",
   "title": "FREE FOOTBALL CARDS",
-  "status": "held",
+  "status": "removed",
   "review": [
    "No transcript provided, empty gameplay clip with no speech or audio context, yet claims 'FREE FOOTBALL CARDS' as a hook.",
    "The hook is misleading/false as it's a generic football game (Volta/FIFA) gameplay clip offering no free football cards.",

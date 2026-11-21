@@ -47,10 +47,8 @@
   "topic": "Kuber ka ghamand",
   "title": "Kuber ka ghamand aur Ganesh ji ki bhookh",
   "qc_ok": false,
-  "status": "approved",
-  "review": [
-   "picture check: scene 1: Does the main deity carry an emblem of a different god (for example Krishna's peacock feather or flute on a go (yes 78%); Is a god or goddess shown in the wrong traditional form (wrong skin colour, wrong mount or weapon, wrong gende (yes 63%); Does any god, goddess or sage have a comic, silly or cartoonish facial expression? (yes 87%)"
-  ]
+  "status": "made",
+  "review": []
  },
  {
   "job": "kuber-01-en",
@@ -99,9 +97,25 @@
   "topic": "When Lord Krishna visited Narakasura's kingdom: The true Puranic legend behind cosmic warfare and inner destruction.",
   "title": "Jab Krishna khud pahunche Narakasura ke durg",
   "qc_ok": true,
-  "status": "approved",
+  "status": "scheduled",
   "review": [],
-  "replan_requested": "2026-11-19 16:09"
+  "replan_requested": "2026-11-19 16:09",
+  "sched": {
+   "slot": 1795357800,
+   "at": "2026-11-22 20:00",
+   "platforms": [
+    "ig",
+    "fb",
+    "yt"
+   ],
+   "mp4": "/home/ubuntu/studio-out/katha/1117-1935/post.mp4",
+   "prepared": "2026-11-21 21:18",
+   "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/katha-1117-1935-1795276082.mp4",
+   "yt": "mUvl1NUUM8g",
+   "fb": "1115441044668158",
+   "ig_container": "17970898448998874",
+   "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/katha-1117-1935-1795276082.mp4"
+  }
  },
  {
   "job": "1117-1935-en",

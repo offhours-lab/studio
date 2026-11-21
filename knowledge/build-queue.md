@@ -55,3 +55,9 @@ This file holds only: open owner-agent tasks ([mehul], worked on by engine/heale
 - [ ] [mehul] 20 Nov tech: Update engine/preflight.py to automatically reject any script containing keywords like 'Launch', 'Price', or 'Release' unless it contains at least two verified source URLs in the metadata.
 
 - [ ] [radar] 2.5D & Gaussian Splats (https://dev.to/hiper2d/turn-any-image-into-a-3d-scene-25d-and-gaussian-splats-37i3, 2026-11-21): Directly addresses our 'Not built yet' goal for 3D scenes without needing a full 3D engine like Blender. FREE: Open source implementation details provided in the dev.to article. HOW: Integrate a basic 2.5D parallax effect into compose_lab.py using GSAP to move layers of a single image.
+- [ ] [mehul] 21 Nov finance: engine/compose_lab.py: Add strict column boundary checks during rendering to prevent text overlap in multi-column list layouts.
+- [ ] [mehul] 21 Nov jain: Update engine/muse.py to add a hard negative prompt constraint against blue, green, or grey skin tones on any Tirthankara, idol, or ascetic image generations.
+- [ ] [mehul] 21 Nov katha: engine/preflight.py: Add an automated regex check to block any video frame containing English title case words outside of valid URL handles before final approval.
+- [ ] [mehul] 21 Nov raaz: Update engine/plan.py to implement a strict blacklist filter for 'Mehul' and other internal names in character generation to prevent them from appearing in scripts or on-screen text.
+- [ ] [mehul] 21 Nov raaz: Modify engine/serials.py to force the final frame of every video to strictly display 'Kal ek nayi kahani. Follow karo.' and remove any logic that allows 'Naya case jaldi' or other custom CTAs.
+- [ ] [mehul] 21 Nov tech: Update engine/compose_lab.py to automatically validate and strip legacy engagement phrases from the final text overlay layer before rendering.

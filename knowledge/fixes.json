@@ -376,5 +376,23 @@
   "first": "2026-11-21 18:52",
   "last": "2026-11-21 18:52",
   "example": "before render, scene 3: FIT: Voice says 'Shrenik Mahavir ke param bhakt the, din raat seva', but the caption says 'SHRENIK MAHAVIR THE' which is incomplete and grammatically broken."
+ },
+ {
+  "sig": "visual: scene # (cloud vm / code type): frames show completely garbled, unreadable fake text ('…') instead of ",
+  "fix": "simplify",
+  "detail": "",
+  "n": 1,
+  "first": "2026-11-21 21:37",
+  "last": "2026-11-21 21:37",
+  "example": "visual: Scene 4 (cloud VM / code type): frames show completely garbled, unreadable fake text ('se cee. lecee. sa cruce tm') instead of actual code or cloud logs."
+ },
+ {
+  "sig": "pre-post picture check: scene #: does any god, goddess or sage have a comic, silly or cartoonish facial expres",
+  "fix": "rebuild",
+  "detail": "",
+  "n": 1,
+  "first": "2026-11-21 22:22",
+  "last": "2026-11-21 22:22",
+  "example": "pre-post picture check: scene 1: Does any god, goddess or sage have a comic, silly or cartoonish facial expression? (yes 87%); Is a god or goddess shown in the wrong traditional form (wrong skin colou"
  }
 ]

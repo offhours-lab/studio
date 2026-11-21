@@ -1215,7 +1215,7 @@
   "job": "1120-0840a-c1",
   "topic": "NEW PORTABLE OXYGEN MACHINE SOLVES IT",
   "title": "NEW PORTABLE OXYGEN MACHINE SOLVES IT",
-  "status": "scheduled",
+  "status": "posted",
   "review": [],
   "clip": {
    "url": "https://drive.google.com/drive/folders/1iN45R_UoW0PPpBEmhjkpnt6GxhdtSwf_",
@@ -1233,6 +1233,17 @@
    "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsule-1120-0840a-c1-1795198080.mp4",
    "ig_container": "17869757112675188",
    "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsule-1120-0840a-c1-1795198080.mp4"
+  },
+  "posted": {
+   "at": "2026-11-21 22:30",
+   "ig": "17966695062209906"
+  },
+  "submit": {
+   "campaign": "https://contentrewards.com/c/campaigns/4a70ba91-44be-4dc8-946c-47e45a2403ea",
+   "links": [
+    "https://www.instagram.com/reel/Df-Q4brFDM5/"
+   ],
+   "at": "2026-11-21 22:30"
   }
  },
  {

@@ -48,8 +48,24 @@
   "topic": "Chouthi Manzil Ka Raaz - Part 1",
   "title": "Band flat 402 mein 3 baje roshni kaise jali?",
   "qc_ok": true,
-  "status": "approved",
-  "review": []
+  "status": "scheduled",
+  "review": [],
+  "sched": {
+   "slot": 1795357800,
+   "at": "2026-11-22 20:00",
+   "platforms": [
+    "ig",
+    "fb",
+    "yt"
+   ],
+   "mp4": "/home/ubuntu/studio-out/raaz/1118-1105/post.mp4",
+   "prepared": "2026-11-21 21:18",
+   "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/raaz-1118-1105-1795276105.mp4",
+   "yt": "2EOiSt_hSQs",
+   "fb": "1812835576686374",
+   "ig_container": "18185559130442685",
+   "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/raaz-1118-1105-1795276105.mp4"
+  }
  },
  {
   "job": "1118-1202",

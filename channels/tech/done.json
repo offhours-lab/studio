@@ -160,10 +160,26 @@
   "job": "1118-1845",
   "topic": "AI Agents (WhatsApp automation)",
   "title": "Chatbot aur AI Agent mein farak kya hai?",
-  "status": "approved",
+  "status": "scheduled",
   "review": [],
   "mehul_rebuilt": "2026-11-18",
-  "replan_requested": "2026-11-18 22:37"
+  "replan_requested": "2026-11-18 22:37",
+  "sched": {
+   "slot": 1795357800,
+   "at": "2026-11-22 20:00",
+   "platforms": [
+    "ig",
+    "fb",
+    "yt"
+   ],
+   "mp4": "/home/ubuntu/studio-out/tech/1118-1845/post.mp4",
+   "prepared": "2026-11-21 21:13",
+   "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/tech-1118-1845-1795275817.mp4",
+   "yt": "NaSLFVEgdK4",
+   "fb": "2031486474182029",
+   "ig_container": "18140850766757620",
+   "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/tech-1118-1845-1795275817.mp4"
+  }
  },
  {
   "job": "1118-2205",
@@ -242,23 +258,15 @@
   "topic": "Meta’s Muse Charm AI device kaise kaam karta hai?",
   "title": "Meta’s Muse Charm AI device kaise kaam karta hai?",
   "qc_ok": true,
-  "status": "held",
-  "review": [
-   "visual: Scene 4: The text in the terminal/cloud connection frames is heavily garbled and filled with fake, unreadable character artifacts ('MHNXE SECII SEDBE AHGNR SECUREF...').",
-   "visual: Scene 6: Floating text elements contain severe spelling and garbling errors ('auto-excution', 'forms boockgs', 'metz's muse ckmarm ai dlevse', '{LABEL: FILL FORM}').",
-   "visual: Scene 9: The background panels are stark, near-empty grey placeholder blocks completely lacking any visual content or texture.",
-   "visual: Checklist q1: Scene 6 and Scene 9 contain garbled brand/UI text and placeholder blocks.",
-   "visual: checklist: Does a frame show a wrong or fake logo for the brand it names? -> Scene 6 and Scene 9",
-   "visual: checklist: Is any frame a near-empty box, card or placeholder block where the line explains something? -> Scene 9",
-   "visual score 4/10"
-  ]
+  "status": "approved",
+  "review": []
  },
  {
   "job": "1121-1855",
   "topic": "Noise cancellation 'khamoshi' kaise banata hai? (Visual: Two waves hitting each other and flattening out)",
   "title": "Noise cancellation khamoshi kaise banata hai?",
   "qc_ok": true,
-  "status": "made",
+  "status": "approved",
   "review": []
  }
 ]

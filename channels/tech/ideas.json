@@ -1527,5 +1527,129 @@
     "score": 4.76
    }
   ]
+ },
+ {
+  "t": "2026-11-21 20:56",
+  "picked": "Bluetooth headphones wire bina kaise connect hote hain?",
+  "ideas": [
+   {
+    "topic": "Bluetooth headphones wire bina kaise connect hote hain?",
+    "note": "",
+    "search": "bluetooth pairing how it works",
+    "fit": 9.0,
+    "from": "new",
+    "demand_known": true,
+    "demand": 5.7,
+    "median_views": 189875,
+    "fresh": 5.1,
+    "score": 6.73
+   },
+   {
+    "topic": "ChatGPT mobile app ke naye tabs kaise kaam karte hain?",
+    "search": "ChatGPT mobile app redesign",
+    "fit": 9.0,
+    "from": "trend",
+    "note": "OpenAI’s redesign is trending in gadget news; a simple ‘how it works’ video aligns with the tech‑curiosity theme.",
+    "demand_known": false,
+    "demand": 4.0,
+    "median_views": 0,
+    "fresh": 3.8,
+    "score": 6.71
+   },
+   {
+    "topic": "Samsung One UI 9.5 naye features kaise kaam karte hain?",
+    "search": "Samsung One UI 9.5 features",
+    "fit": 8.0,
+    "from": "trend",
+    "note": "One UI 9.5 release is a current gadget story; a quick explainer on its UI improvements suits a 30‑60 s faceless short.",
+    "demand_known": false,
+    "demand": 4.0,
+    "median_views": 0,
+    "fresh": 4.2,
+    "score": 6.44
+   },
+   {
+    "topic": "OTP kaise banta hai",
+    "search": "OTP kaise banta hai",
+    "fit": 7,
+    "from": "backlog",
+    "demand_known": true,
+    "demand": 7.0,
+    "median_views": 645610,
+    "fresh": 2.7,
+    "score": 6.14
+   },
+   {
+    "topic": "Fast charging phone ko kharab karti hai kya",
+    "search": "Fast charging phone ko kharab karti hai kya",
+    "fit": 7,
+    "from": "backlog",
+    "demand_known": false,
+    "demand": 4.0,
+    "median_views": 0,
+    "fresh": 4.6,
+    "score": 5.17
+   },
+   {
+    "topic": "Lava Smart 4 Pro ki 7,000 mAh battery kaise kaam karti hai?",
+    "search": "Lava Smart 4 Pro battery",
+    "fit": 8.0,
+    "from": "trend",
+    "note": "Lava Smart 4 Pro launch is in today’s tech headlines; explaining high‑capacity battery operation matches the curiosity‑first Shorts style.",
+    "demand_known": true,
+    "demand": 0.0,
+    "median_views": 102,
+    "fresh": 4.4,
+    "score": 4.68
+   },
+   {
+    "topic": "Midjourney v7 prompt ke words ko image mein kaise badalta hai?",
+    "note": "",
+    "search": "midjourney prompt to image process",
+    "fit": 9.0,
+    "from": "new",
+    "demand_known": true,
+    "demand": 0.0,
+    "median_views": 164,
+    "fresh": 5.0,
+    "score": 4.15
+   },
+   {
+    "topic": "Airplane mode on karne se battery bachti hai?",
+    "note": "",
+    "search": "airplane mode battery saving myth",
+    "fit": 9.0,
+    "from": "new",
+    "demand_known": true,
+    "demand": 0.0,
+    "median_views": 51,
+    "fresh": 5.0,
+    "score": 4.15
+   },
+   {
+    "topic": "Ye GitHub tool Canva ke paise bachata hai",
+    "note": "",
+    "search": "free canva alternative github ai tool",
+    "fit": 9.0,
+    "from": "new",
+    "demand_known": true,
+    "demand": 0.0,
+    "median_views": 693,
+    "fresh": 4.7,
+    "score": 4.09
+   },
+   {
+    "topic": "Google ka naya Project Astra glasses mein kya hai?",
+    "note": "",
+    "search": "google project astra smart glasses features",
+    "fit": 8.0,
+    "from": "new",
+    "demand_known": true,
+    "demand": 0.0,
+    "median_views": 68,
+    "fresh": 5.7,
+    "score": 3.94
+   }
+  ]
  }
 ]

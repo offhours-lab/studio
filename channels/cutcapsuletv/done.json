@@ -318,7 +318,7 @@
   "job": "1120-0201c-c1",
   "topic": "MOM BREAKS DOWN: BABY LEAVING FOR COLLEGE",
   "title": "MOM BREAKS DOWN: BABY LEAVING FOR COLLEGE",
-  "status": "scheduled",
+  "status": "posted",
   "review": [],
   "clip": {
    "url": "https://drive.google.com/drive/folders/1XDhpF6dPX2OaNWo3hh-O7YGhoOfSiHeM",
@@ -336,6 +336,18 @@
    "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsuletv-1120-0201c-c1-1795198196.mp4",
    "ig_container": "18196639237406979",
    "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsuletv-1120-0201c-c1-1795198196.mp4"
+  },
+  "posted": {
+   "at": "2026-11-21 22:30",
+   "ig": "17916264942488099"
+  },
+  "submit": {
+   "campaign": "https://contentrewards.com/c/campaigns/ef765ecc-e1a8-4ba3-ace3-ea58c2597762",
+   "links": [
+    "https://www.instagram.com/reel/Df-RLAkCSP8/"
+   ],
+   "at": "2026-11-21 22:30",
+   "tries": 1
   }
  },
  {

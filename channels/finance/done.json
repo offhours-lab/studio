@@ -15,8 +15,22 @@
   "job": "1118-2303",
   "topic": "'Digital Arrest' scam ka blueprint: video call pe police wala kaise darata hai, aur ek screenshot se bachav.",
   "title": "Digital Arrest scam ka asli blueprint kya hai?",
-  "status": "approved",
-  "review": []
+  "status": "scheduled",
+  "review": [],
+  "sched": {
+   "slot": 1795357800,
+   "at": "2026-11-22 20:00",
+   "platforms": [
+    "ig",
+    "fb"
+   ],
+   "mp4": "/home/ubuntu/studio-out/finance/1118-2303/post.mp4",
+   "prepared": "2026-11-21 21:08",
+   "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/finance-1118-2303-1795275500.mp4",
+   "fb": "1107567595411030",
+   "ig_container": "18138546127798453",
+   "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/finance-1118-2303-1795275500.mp4"
+  }
  },
  {
   "job": "1118-2334",
@@ -202,7 +216,7 @@
   "topic": "Purana sona bechne par poora paisa kyun nahi milta",
   "title": "Purana sona bechne par poora paisa kyun nahi milta?",
   "qc_ok": true,
-  "status": "made",
+  "status": "approved",
   "review": []
  }
 ]

@@ -4,13 +4,29 @@
   "topic": "The Night Mahavira Swami Stayed in a Cremation Ground — What the Yaksha Tested (Source: Kalpasutra)",
   "title": "Mahavira Swami ne shmashan mein raat kaise bitaayi?",
   "qc_ok": false,
-  "status": "approved",
+  "status": "scheduled",
   "review": [],
   "replan_requested": "2026-11-19 15:51",
   "minor": [
    "before render, scene 3: FIT: split / collage picture shown instead of a single cohesive scene",
    "before render, scene 7: READ: caption text says 'SAANP' while the voice says 'Sher, saanp, haathi...'"
-  ]
+  ],
+  "sched": {
+   "slot": 1795357800,
+   "at": "2026-11-22 20:00",
+   "platforms": [
+    "ig",
+    "fb",
+    "yt"
+   ],
+   "mp4": "/home/ubuntu/studio-out/jain/1118-2242/post.mp4",
+   "prepared": "2026-11-21 21:15",
+   "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/jain-1118-2242-1795275903.mp4",
+   "yt": "mhGJQT45R94",
+   "fb": "1128090690047788",
+   "ig_container": "18227340679338986",
+   "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/jain-1118-2242-1795275903.mp4"
+  }
  },
  {
   "job": "1119-0215",
@@ -183,7 +199,7 @@
   "job": "1120-1510",
   "topic": "Can a soul currently in hell become a Tirthankara? The story of King Shrenik (Bimbisara) and his bond with Mahavira. Lesson: Repentance can reshape your ultimate destiny. (Source: Trishashti-shalaka-purusha-charitra)",
   "title": "Narak mein pade atma Tirthankar ban sakti hai?",
-  "status": "made",
+  "status": "approved",
   "review": []
  }
 ]

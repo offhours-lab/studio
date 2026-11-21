@@ -538,3 +538,32 @@
 - FIT: the flow nodes text is completely corrupted and garbled into placeholder gibberish
 - OVERLAP: node text overlapping awkwardly on screen
 - FIT: the logo text is cut off or rendered incorrectly showing 'Mea' instead of Meta
+
+## review 1121-1825
+- visual: Scene 4 (cloud VM / code type): frames show completely garbled, unreadable fake text ('se cee. lecee. sa cruce tm') instead of actual code or cloud logs.
+- visual: Scene 6 (auto booking / flow type): frames contain garbled, gibberish text ('Feacl ecmpry beleuiom', 'Auto-ecrtion') instead of proper UI descriptions.
+- visual score 4/10
+
+## 1121-1825 (pre-render check)
+- OVERLAP: Garbled background text clashing with main title
+- READ: Illegible text blocks
+- LANG: Gibberish text at top of frame
+- FIT: Logo displays 'Mea' instead of 'Meta'
+
+## 1121-1825 (pre-render check)
+- READ: background text is scrambled, overlapping and barely legible
+- READ: background text contains typos and gibberish ('auto-excuition. Forms, aus bookins.') overlapping the main title
+
+## 1121-1825 (pre-render check)
+- READ: text overlapping heavily and corrupted/glitched in the background
+- READ: extremely messy text overlap and gibberish subtitles overlapping the main title
+
+## review 1121-1825
+- visual: Scene 4 and 5: Garbled or fake text/gibberish present in the background floating text layers ('cooudiln clourd link', 'me-ta's musee chhrr aii vik', etc.).
+- visual: Scene 6: Garbled and repeating nonsense text at the top right ('auto-ecuition, forms bookrns, Meta's Muse Cliua Charrm...').
+- visual: Checklist item 1: Scene 4/5/6 contain garbled brand and technical terms instead of coherent English/Hinglish text.
+- picture check: scene 4: Is any frame a near-empty box, card or placeholder block where the line explains something? (yes 64%)
+- visual score 5/10
+
+## 1121-2055 (pre-render check)
+- READ: gibberish corrupted text on screen
