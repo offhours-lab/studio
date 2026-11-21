@@ -653,12 +653,26 @@
   "job": "1121-1015b-c1",
   "topic": "ROUND 2 SIR",
   "title": "ROUND 2 SIR",
-  "status": "approved",
+  "status": "scheduled",
   "review": [],
   "clip": {
    "url": "https://www.youtube.com/watch?v=HyDtVeQqFOM",
    "start": 0.0,
    "layout": "stack"
+  },
+  "sched": {
+   "slot": 1795366800,
+   "at": "2026-11-22 22:30",
+   "platforms": [
+    "ig",
+    "fb"
+   ],
+   "mp4": "/home/ubuntu/studio-out/cutcapsulegaming/1121-1015b-c1/post.mp4",
+   "prepared": "2026-11-21 23:33",
+   "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsulegaming-1121-1015b-c1-1795284230.mp4",
+   "fb": "1136960845983316",
+   "ig_container": "17905662915397877",
+   "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsulegaming-1121-1015b-c1-1795284230.mp4"
   }
  },
  {

@@ -498,3 +498,15 @@
 ## 12 Jyotirlinga ki katha - Part 4: Omkareshwar (story check)
 - STORY scene 2: invented: 'Every night in Omkareshwar temple, Mahadev and Mata Parvati themselves come to play Chausar (dice).': No source mentions nightly divine dice games; this vivid detail appears nowhere in the provided sources or standard Pura (the two checks disagree on what really happened: R
 - STORY scene 3: invented: 'In the morning, dice pieces are found scattered as if someone just finished playing.': Corollary to the invented nightly Chausar claim; no source or scripture records physical dice remnants. (the two checks disagree on what really happened: REMOVE this detail, do not replac
+
+## 1121-2145 (pre-render check)
+- OVERLAP/CUT (layout audit): text_occluded on #s7b
+
+## 1121-2145 (pre-render check)
+- OVERLAP/CUT (layout audit): text_occluded on #s7b
+
+## 1121-2145 (pre-render check)
+- OVERLAP/CUT (layout audit): text_occluded on #s7b
+
+## review 1121-2145
+- picture check: scene 8: Is there a modern object or modern building in the picture? (yes 73%)

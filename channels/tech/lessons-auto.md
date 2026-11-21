@@ -584,3 +584,11 @@
 - visual: checklist: Is any frame a near-empty box, card or placeholder block where the line explains something? -> Scene 4
 - picture check: scene 10: Does a frame show a wrong or fake logo for the brand it names? (yes 76%)
 - visual score 4/10
+
+## 1121-2055 (pre-render check)
+- READ: text inside the UI box is corrupted and unreadable gibberish
+- READ: list of brand options is extremely tiny and unreadable
+
+## 1121-2055 (pre-render check)
+- LANG: corrupted and unreadable gibberish text displayed on screen instead of proper Hinglish
+- FIT: brand logos shown on screen (Yamaha, Soundcraft, Bose, JBL, QSC, Electro-Voice) do not match the requested list in the prompt (Sony, Boat, Apple, JBL)

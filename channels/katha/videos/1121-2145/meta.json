@@ -2,7 +2,8 @@
  "channel": "katha",
  "job": "1121-2145",
  "topic": "12 Jyotirlinga ki katha - Part 4: Omkareshwar",
- "stage": "prepped",
+ "stage": "done",
  "lang": "hi",
- "prepped_at": "2026-11-21 22:08"
+ "prepped_at": "2026-11-21 22:08",
+ "brain_judged": true
 }

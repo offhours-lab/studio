@@ -1327,12 +1327,24 @@
   "job": "1120-0940c-c1",
   "topic": "JO KOY REVEALS DOGS CRAZY LOYALTY",
   "title": "JO KOY REVEALS DOGS CRAZY LOYALTY",
-  "status": "approved",
+  "status": "scheduled",
   "review": [],
   "clip": {
    "url": "https://drive.google.com/drive/folders/1iN45R_UoW0PPpBEmhjkpnt6GxhdtSwf_",
    "start": 114.35,
    "layout": "crop"
+  },
+  "sched": {
+   "slot": 1795366800,
+   "at": "2026-11-22 22:30",
+   "platforms": [
+    "ig"
+   ],
+   "mp4": "/home/ubuntu/studio-out/cutcapsule/1120-0940c-c1/post.mp4",
+   "prepared": "2026-11-21 23:34",
+   "url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsule-1120-0940c-c1-1795284289.mp4",
+   "ig_container": "17869965810675188",
+   "ig_url": "https://raw.githubusercontent.com/offhours-lab/studio-media/main/reels/cutcapsule-1120-0940c-c1-1795284289.mp4"
   }
  },
  {

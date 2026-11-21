@@ -222,7 +222,6 @@
    "prompt": "The Omkareshwar temple glowing under a starry night sky, moon reflecting in the river.",
    "motion": "pull",
    "big": "OM NAMAH SHIVAY",
-   "small": "Comment mein bataiye",
    "keywords": [
     "Narmada",
     "shakti"
@@ -232,14 +231,13 @@
     "kind": "photo",
     "subject": "Omkareshwar temple at night"
    },
-   "title": "",
    "sub": null,
    "label": null,
    "skin": "painting"
   }
  ],
  "music_mood": "mystery",
- "caption": "Omkareshwar: Narmada ke beech swayam 'Om' akaar ka dweep! 🕉️✨\n\nRaja Mandhata ki tapasya aur Vindhya parvat ki bhakti ne ye sthaan jagaya. Do mandir — Omkareshwar aur Mamleshwar — ek hi shakti ke do roop.\n\nBataiye, aapka pasandida Jyotirlinga kaunsa hai? 👇",
+ "caption": "Omkareshwar: Narmada ke beech swayam 'Om' akaar ka dweep! 🕉️✨\n\nRaja Mandhata ki tapasya aur Vindhya parvat ki bhakti ne ye sthaan jagaya. Do mandir — Omkareshwar aur Mamleshwar — ek hi shakti ke do roop.\n\nBataiye, aapka pasandida Jyotirlinga kaunsa hai? 👇\n\nMusic: Kevin MacLeod (incompetech.com), CC BY 4.0",
  "hashtags": [
   "#Omkareshwar",
   "#Jyotirlinga",
@@ -350,5 +348,6 @@
     "look": "Radiant golden lingam suspended in divine space, perfect cylindrical form with luminous surface, emitting brilliant sparks of golden energy, resting on ornate golden yoni pedestal with lotus petals, splitting vertically into two identical glowing forms, each complete and whole, deep maroon and gold cosmic background, supreme divine manifestation"
    }
   ]
- }
+ },
+ "music_credit": "Music: Kevin MacLeod (incompetech.com), CC BY 4.0"
 }

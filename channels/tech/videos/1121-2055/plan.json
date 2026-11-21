@@ -84,15 +84,15 @@
    "title": "BT PAIRING",
    "rows": [
     {
-     "label": "Search",
-     "value": "Found"
+     "label": "Scan",
+     "value": "Milgaya"
     },
     {
-     "label": "Sec Key",
-     "value": "Verified"
+     "label": "Key",
+     "value": "Exchange"
     }
    ],
-   "label": "KEY EXCHANGE",
+   "label": "Key Exchange",
    "bg_prompt": "Soft, out-of-focus ambient background for a technology explainer about: key exchange, bt pairing, security key, bluetooth headphones bina wire ke connect kaise hote hain?. Style: image made only of glowing amber monospace ASCII characters on dark CRT glass, scanlines, slight screen curvature, monochrome amber phosphor, no photo. Abstract light, depth and colour only: no screens, no monitors, no phones showing anything, no terminals, no windows, no text, no letters, no numbers, no logos, no watermark, vertical 9:16.",
    "real": {
     "q": "iphone bluetooth pairing pop-up notification animation",
@@ -230,7 +230,7 @@
    "vo": "Aapka favourite headphone brand kaunsa hai? Comment mein batao!",
    "type": "object",
    "prompt": "A collection of various real brand logos like Sony, Boat, and Apple floating on a black background.",
-   "label": "COMMENT BELOW",
+   "label": "Comment Below",
    "bg_prompt": "A dark studio desk with multiple types of wireless earbuds and headphones.",
    "real": {
     "q": "Sony Bose Apple JBL logos grid",
@@ -263,6 +263,24 @@
     {
      "label": "JBL",
      "value": ""
+    }
+   ],
+   "rows": [
+    {
+     "label": "Sony",
+     "value": "Pick"
+    },
+    {
+     "label": "Boat",
+     "value": "Pick"
+    },
+    {
+     "label": "Apple",
+     "value": "Pick"
+    },
+    {
+     "label": "JBL",
+     "value": "Pick"
     }
    ]
   }

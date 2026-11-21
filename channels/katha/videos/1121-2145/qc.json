@@ -1,0 +1,26 @@
+{
+ "topic": "12 Jyotirlinga ki katha - Part 4: Omkareshwar",
+ "title": "Omkareshwar: Narmada ke beech 'Om' kaise bana?",
+ "format": {
+  "ok": true,
+  "video": "h264,1080,1920,30/1",
+  "audio": "aac",
+  "lufs": -14.0,
+  "true_peak": -3.1,
+  "dur": 32.83
+ },
+ "vision": {
+  "ok": null,
+  "score": null,
+  "problems": [],
+  "note": "judged by review.py"
+ },
+ "voice": {
+  "ok": true,
+  "method": "whisper",
+  "matched": 0.9489795918367347,
+  "words": 105,
+  "problems": []
+ },
+ "ok": true
+}
